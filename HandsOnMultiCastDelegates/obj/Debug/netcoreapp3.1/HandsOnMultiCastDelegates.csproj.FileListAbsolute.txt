@@ -1,0 +1,13 @@
+G:\HandsOnMultiCastDelegates\bin\Debug\netcoreapp3.1\HandsOnMultiCastDelegates.exe
+G:\HandsOnMultiCastDelegates\bin\Debug\netcoreapp3.1\HandsOnMultiCastDelegates.deps.json
+G:\HandsOnMultiCastDelegates\bin\Debug\netcoreapp3.1\HandsOnMultiCastDelegates.runtimeconfig.json
+G:\HandsOnMultiCastDelegates\bin\Debug\netcoreapp3.1\HandsOnMultiCastDelegates.runtimeconfig.dev.json
+G:\HandsOnMultiCastDelegates\bin\Debug\netcoreapp3.1\HandsOnMultiCastDelegates.dll
+G:\HandsOnMultiCastDelegates\bin\Debug\netcoreapp3.1\HandsOnMultiCastDelegates.pdb
+G:\HandsOnMultiCastDelegates\obj\Debug\netcoreapp3.1\HandsOnMultiCastDelegates.csprojAssemblyReference.cache
+G:\HandsOnMultiCastDelegates\obj\Debug\netcoreapp3.1\HandsOnMultiCastDelegates.csproj.CoreCompileInputs.cache
+G:\HandsOnMultiCastDelegates\obj\Debug\netcoreapp3.1\HandsOnMultiCastDelegates.AssemblyInfoInputs.cache
+G:\HandsOnMultiCastDelegates\obj\Debug\netcoreapp3.1\HandsOnMultiCastDelegates.AssemblyInfo.cs
+G:\HandsOnMultiCastDelegates\obj\Debug\netcoreapp3.1\HandsOnMultiCastDelegates.dll
+G:\HandsOnMultiCastDelegates\obj\Debug\netcoreapp3.1\HandsOnMultiCastDelegates.pdb
+G:\HandsOnMultiCastDelegates\obj\Debug\netcoreapp3.1\HandsOnMultiCastDelegates.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\HandsOnLinq\bin\Debug\netcoreapp3.1\HandsOnLinq.exe
+G:\HandsOnLinq\bin\Debug\netcoreapp3.1\HandsOnLinq.deps.json
+G:\HandsOnLinq\bin\Debug\netcoreapp3.1\HandsOnLinq.runtimeconfig.json
+G:\HandsOnLinq\bin\Debug\netcoreapp3.1\HandsOnLinq.runtimeconfig.dev.json
+G:\HandsOnLinq\bin\Debug\netcoreapp3.1\HandsOnLinq.dll
+G:\HandsOnLinq\bin\Debug\netcoreapp3.1\HandsOnLinq.pdb
+G:\HandsOnLinq\obj\Debug\netcoreapp3.1\HandsOnLinq.csprojAssemblyReference.cache
+G:\HandsOnLinq\obj\Debug\netcoreapp3.1\HandsOnLinq.csproj.CoreCompileInputs.cache
+G:\HandsOnLinq\obj\Debug\netcoreapp3.1\HandsOnLinq.AssemblyInfoInputs.cache
+G:\HandsOnLinq\obj\Debug\netcoreapp3.1\HandsOnLinq.AssemblyInfo.cs
+G:\HandsOnLinq\obj\Debug\netcoreapp3.1\HandsOnLinq.dll
+G:\HandsOnLinq\obj\Debug\netcoreapp3.1\HandsOnLinq.pdb
+G:\HandsOnLinq\obj\Debug\netcoreapp3.1\HandsOnLinq.genruntimeconfig.cache

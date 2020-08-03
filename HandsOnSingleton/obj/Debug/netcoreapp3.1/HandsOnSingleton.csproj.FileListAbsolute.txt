@@ -1,0 +1,13 @@
+G:\HandsOnSingleton\obj\Debug\netcoreapp3.1\HandsOnSingleton.csprojAssemblyReference.cache
+G:\HandsOnSingleton\obj\Debug\netcoreapp3.1\HandsOnSingleton.csproj.CoreCompileInputs.cache
+G:\HandsOnSingleton\obj\Debug\netcoreapp3.1\HandsOnSingleton.AssemblyInfoInputs.cache
+G:\HandsOnSingleton\obj\Debug\netcoreapp3.1\HandsOnSingleton.AssemblyInfo.cs
+G:\HandsOnSingleton\bin\Debug\netcoreapp3.1\HandsOnSingleton.exe
+G:\HandsOnSingleton\bin\Debug\netcoreapp3.1\HandsOnSingleton.deps.json
+G:\HandsOnSingleton\bin\Debug\netcoreapp3.1\HandsOnSingleton.runtimeconfig.json
+G:\HandsOnSingleton\bin\Debug\netcoreapp3.1\HandsOnSingleton.runtimeconfig.dev.json
+G:\HandsOnSingleton\bin\Debug\netcoreapp3.1\HandsOnSingleton.dll
+G:\HandsOnSingleton\bin\Debug\netcoreapp3.1\HandsOnSingleton.pdb
+G:\HandsOnSingleton\obj\Debug\netcoreapp3.1\HandsOnSingleton.dll
+G:\HandsOnSingleton\obj\Debug\netcoreapp3.1\HandsOnSingleton.pdb
+G:\HandsOnSingleton\obj\Debug\netcoreapp3.1\HandsOnSingleton.genruntimeconfig.cache
